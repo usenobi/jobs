@@ -1,6 +1,6 @@
 # MOBILE ENGINEER (REACT NATIVE) at NOBI
  
-[NOBI](https://usenobi.com) is a company that provides bank-like services so people can easily grow their cryptocurrency. We are looking for a strong mobile engineer with React Native & frontend experience. Join our team & be part of the most innovative crypto company in Indonesia. 
+[NOBI](https://usenobi.com) is a company that provides bank-like services so people can easily grow their cryptocurrency. Our platform run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our users. We are looking for a strong mobile engineer with React Native & frontend experience. Join our team & be part of the most innovative crypto company in Indonesia. 
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
