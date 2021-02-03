@@ -1,6 +1,6 @@
-# BACKEND ENGINEER (REACT NATIVE) at NOBI
+# BACKEND SOFTWARE ENGINEER at NOBI
  
-[NOBI](https://usenobi.com) is a company that provides bank-like services so people can easily grow their cryptocurrency. Our platform run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. We are looking for a strong backend engineer with strong analytical skill, comfortable with numbers & experience with NodeJS. Join our team & be part of the most innovative crypto company in Indonesia.
+[NOBI](https://usenobi.com) is a company that provides bank-like services so people can easily grow their cryptocurrency. Our platform run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. We are looking for an experienced backend engineer with strong analytical skill, comfortable with numbers & experience with NodeJS. Join our team & be part of the most innovative crypto company in Indonesia.
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
