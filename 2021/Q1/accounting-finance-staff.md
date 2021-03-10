@@ -1,6 +1,6 @@
 # ACCOUNTING & FINANCE STAFF at NOBI
  
-[NOBI](https://usenobi.com) (formerly known as Honest Mining) membantu semua orang melakukan lebih banyak dengan Bitcoin & menyederhanakan pengalaman investasi kripto mereka. Kami mencari staff akuntansi & finance untuk membantu kami melayani lebih banyak orang lagi. Mari bergabung dengan tim NOBI & jadilah bagian dari perusahaan kripto paling inovatif di Indonesia.
+[NOBI](https://usenobi.com) (dahulu dikenal sebagai Honest Mining) membantu semua orang melakukan lebih banyak hal dengan Bitcoin & menyederhanakan pengalaman investasi kripto mereka. Kami mencari staff akuntansi & finance untuk membantu kami melayani lebih banyak orang lagi. Mari bergabung dengan tim NOBI & jadilah bagian dari perusahaan kripto paling inovatif di Indonesia.
 
 Lamar sekarang di [jobs@usenobi.com](jobs@usenobi.com) 
 
