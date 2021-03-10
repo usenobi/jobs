@@ -41,4 +41,4 @@ Lamar sekarang di [jobs@usenobi.com](jobs@usenobi.com)
 - Tempat kerja yang berorientasi pada prestasi
 - Opsi untuk Pekerjaan Jarak Jauh (Bekerja Dari Rumah) - kami 100% Work From Home selama pandemi kecuali dalam keadaan tertentu.
 
-Lamar sekarang di [jobs@usenobi.com] (jobs@usenobi.com)
+Lamar sekarang di [jobs@usenobi.com](jobs@usenobi.com)
