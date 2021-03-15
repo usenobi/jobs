@@ -4,7 +4,7 @@
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
-## Job Description
+## Responsibilities
 - Work with the engineering team to build & maintain our numerous backend services
 - Research on different backend technologies that can bring values to product development and delivery
 - Attend regular meeting with team (daily scrum meeting, sprint planning, etc)
