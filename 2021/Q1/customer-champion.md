@@ -4,7 +4,7 @@
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com) 
 
-## Job Description
+## Responsibilities
 - Customer Happiness
 Address customer issues & listen to their feedbacks on all channels.
 - Engage Community
