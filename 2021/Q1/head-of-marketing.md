@@ -1,6 +1,6 @@
 # HEAD OF MARKETING at NOBI
  
-[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people do more with their Bitcoin & simplify their crypto investment experience. We are looking for our first head of marketing, someone who 100% believe in our company mission & know how to introduce it to as many people as possible. Join our team & be part of the most innovative crypto company in Indonesia.
+[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people do more with their Bitcoin & simplify their crypto investment experience. We are looking for our first head of marketing, someone who 100% believe in our company mission & ready to introduce our product to the world. Join our team & be part of the most innovative crypto company in Indonesia.
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com) 
 
