@@ -6,14 +6,14 @@ Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
 ## Responsibilities
 - Customer Happiness
-Address customer issues & listen to their feedbacks on all channels.
+  - Address customer issues & listen to their feedbacks on all channels.
 - Engage Community
-Expand engagement on various channels such as Telegram, Instagram, Facebook, Twitter and Youtube.
+  - Expand engagement on various channels such as Telegram, Instagram, Facebook, Twitter and Youtube.
 - Build Relationship
-Establish & maintain relationship with different communities & partners.
-Identify opportunity for a win-win partnership.
+  - Establish & maintain relationship with different communities & partners.
+  - Identify opportunity for a win-win partnership.
 - Collaborate
-Collaborate with other team members and stakeholders to run a successful marketing campaign.
+  - Collaborate with other team members and stakeholders to run a successful marketing campaign.
 
 ## General Requirement
 - Strong motivation to help & serve others
