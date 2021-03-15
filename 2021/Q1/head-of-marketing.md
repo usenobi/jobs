@@ -4,7 +4,7 @@
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com) 
 
-## Job Description
+## Responsibilities
 - Craft strategies for all Marketing teams, including Digital, Advertising, Communications and Creative
 - Manage marketing budgets 
 - Set, monitor and report on team metrics & goal
