@@ -1,6 +1,6 @@
 # PRODUCT ANALYST at NOBI
  
-[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people do more with their Bitcoin & simplify their crypto investment experience. We are looking for a product analyst with strong analytical skill, comfortable with numbers & experience with NodeJS. Join our team & be part of the most innovative crypto company in Indonesia.
+[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people do more with their Bitcoin & simplify their crypto investment experience. We are looking for a product analyst with strong analytical skill. Join our team & be part of the most innovative crypto company in Indonesia.
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com) 
 
