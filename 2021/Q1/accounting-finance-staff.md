@@ -19,15 +19,13 @@ Lamar sekarang di [jobs@usenobi.com](jobs@usenobi.com)
 
 ## General Requirement
 - Pendidikan minimal SMK Akuntansi / S1 
+- Pengalaman di bidang akutansi & finance minimal 2 tahun
 - Rapi & teliti
 - Memahami financial planning & Budgeting
 - Memahami jurnal-jurnal dasar akuntansi
 - Menguasai Spreadsheet (Excel)
 - Terbiasa dengan program Akuntansi
 - Domisili Jabodetabek 
-
-## Technical Skill 
-- Pengalaman di bidang akutansi & finance minimal 2 tahun
 
 ### Nice To Have
 - Blockchain & Crypto enthusiast
