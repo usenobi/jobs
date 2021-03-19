@@ -1,6 +1,6 @@
 # ACCOUNTING & FINANCE STAFF at NOBI
  
-[NOBI](https://usenobi.com) membantu orang mengembangkan & menyederhanakan pengalaman investasi aset kripto. Kami mencari staff akuntansi & finance untuk membantu kami bertumbuh. Mari bergabung dengan tim NOBI & jadilah bagian dari perusahaan kripto paling inovatif di Indonesia.
+[NOBI](https://usenobi.com) membantu orang mengembangkan & menyederhanakan pengalaman investasi aset kripto. Kami mencari staff akuntansi & finance untuk membantu kami bertumbuh. Kami mencari staff akuntansi & finance yang ingin berkembang bersama kami. Bergabunglah dengan tim NOBI & jadilah bagian dari perusahaan kripto paling inovatif di Indonesia.
 
 Lamar sekarang di [jobs@usenobi.com](jobs@usenobi.com) 
 
