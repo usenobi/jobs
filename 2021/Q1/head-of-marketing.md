@@ -16,18 +16,15 @@ Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 - Coordinate sales and marketing efforts to boost brand awareness
 
 ## General Requirement
-- Work experience as Head of Marketing or VP Marketing, preferably within financial sector
+- Proven Work experience as Head of Marketing or VP Marketing, preferably within financial sector
+- Proficient in developing integrated, strategic marketing strategies and ecosystems.
+- Hands on experience & solid knowledge with SEO + SEM  would be a plus
 - Experience running successful marketing campaigns
-- Solid knowledge of web analytics
 - Leadership skills with the ability to set and prioritize goals
 - Analytical mind
-- BSc or MSc in Marketing or relevant field
-
-## Technical Skill 
-- Minimum 2 years in customer management 
 
 ### Nice To Have
-- Bachelor (S1) / Master (S2) degrees in Business Marketing or relevant major 
+- BSc or MSc in Marketing, Advertising, Communications, Graphic Design, Journalism or relevant field
 - Blockchain or Crypto enthusiast
 
 ## What We offer
