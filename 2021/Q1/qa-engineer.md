@@ -4,7 +4,7 @@
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
-NOTE: Do not apply if you have zero working experience on test automation.
+⚠️ Important: This is a senior position. Do not apply if you have zero working experience on test automation.
 
 ## Responsibilities
 - Design, develop & maintain all test plans (test scenario & test cases) to ensure that all requirements are met 
