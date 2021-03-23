@@ -1,6 +1,8 @@
 # QA ENGINEER at NOBI
  
-[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. We are looking for an experienced QA engineer who can keep our system in check and make sure that we are delivering high quality code. Join our team & be part of the most innovative crypto company in Indonesia.
+[NOBI](https://usenobi.com) (formerly known as Honest Mining) helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. 
+
+We are looking for an experienced QA engineer who can keep our system in check and make sure that we are delivering high quality code. Join our team & be part of the most innovative crypto company in Indonesia.
 
 Apply now at [jobs@usenobi.com](jobs@usenobi.com)
 
